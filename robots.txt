@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thandden.github.io/manchestervita/sitemap.xml
+Sitemap: https://manchestervita.co.uk/sitemap.xml
